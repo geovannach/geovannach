@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning more about progamming<br>🎯 Goals: complete more projects<br>🎲 Fun fact: i always wanted to be in this industry</p>
+<p align="left">📚 I'm currently learning: more about progamming<br>🎯 Goals: complete more projects<br>🎲 Fun fact: i always wanted to be in this industry</p>
 
 ###
 
