@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning mais sobre progamação<br>🎯 Goals: completar mais projetos<br>🎲 Fun fact: sempre quis ser desse ramo</p>
+<p align="left">📚 I'm currently learning more about progamming<br>🎯 Goals: completar mais projetos<br>🎲 Fun fact: sempre quis ser desse ramo</p>
 
 ###
 
