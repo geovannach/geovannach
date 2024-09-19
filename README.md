@@ -11,7 +11,7 @@
 
 ###
 
-<h2 align="left">Estou estudando sobre:</h2>
+<h2 align="left">Estou aprendendo sobre:</h2>
 
 ###
 
